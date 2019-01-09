@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from distutils.core import setup
 LONGDOC = """
-jieba
+jieba testwang
 =====
 
 “结巴”中文分词：做最好的 Python 中文分词组件
